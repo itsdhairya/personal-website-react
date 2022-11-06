@@ -1,23 +1,23 @@
 {
     "basics": {
-        "name": "Jo Lienhoop",
+        "name": "Dhairya Brahmbhatt",
         "label": "Computer Science student",
-        "email": "hey@jolienhoop.com",
+        "email": "dhairyabrahmbhatt2@gmail.com",
         "phone": "(XXX) XXX-XXXX",
         "picture": "jl.png",
         "x_title": "Hey, I'm",
         "job": "CS student",
-        "description": "Hey, I'm Jo Lienhoop, a Computer Science student based in Bremen, Germany. I love all things technical. Talk soon!",
-        "summary": "based in Bremen, Germany.",
+        "description": "A Computer Science Major currently pursuing Software Engineering based in Ontario",
+        "summary": "based in Scarborough, Ontario.",
         "keywords": "personal,website,portfolio,template,kit,jo,lienhoop,jolienhoop,computer,science,bremen,germany,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
-        "url": "https://jolienhoop.com",
+        "url": "https://personalwebsi.herokuapp.com/",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "Bremen",
-            "country": "Germany",
-            "countryCode": "DEU",
-            "region": "Bremen"
+            "city": "Scarborough",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "Ontario"
         },
         "profiles": [
             {
